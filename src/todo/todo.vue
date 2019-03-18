@@ -13,7 +13,7 @@
     </section>
 </template>
 <script>
-// import Item from './item.vue'
+import Item from './item.vue'
 let id = 0
 export default {
     data(){

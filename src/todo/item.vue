@@ -15,10 +15,10 @@ export default {
 
     },
     methods:{
-        deleteTodo(){
-            //触发父组件的del事件名的事件
-            this.$emit('del',this.todo.id)
-        }
+        // deleteTodo(){
+        //     //触发父组件的del事件名的事件
+        //     this.$emit('del',this.todo.id)
+        // }
     }
 }
 </script>
